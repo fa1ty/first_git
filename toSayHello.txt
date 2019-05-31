@@ -1,0 +1,2 @@
+print("Hello, friend!");
+print("What's up?");
